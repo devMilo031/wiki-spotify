@@ -15,6 +15,8 @@ Su objetivo es servir como referencia rápida para comprender cómo Spotify gest
 
 📂 [Desarrollo](Desarrollo\index.md)
 
+📂 [Modelo de Negocio](Modelo de Negocio\index.md)
 
+📂 [Experiencia de usuario](Experiencia de usuario\index.md)
 
-
+📂 [Analítica](Analítica\index.md)
