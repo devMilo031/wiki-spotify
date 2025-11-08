@@ -20,3 +20,5 @@ Su objetivo es servir como referencia rápida para comprender cómo Spotify gest
 📂 [Experiencia de usuario](Experiencia de usuario\index.md)
 
 📂 [Analítica](Analítica\index.md)
+
+📂 [Gestión del conocimiento](Gestión del conocimiento\index.md)
