@@ -1,2 +1,2 @@
 
-📄 [Prueba](Prueba.md)
+[Prueba](Prueba.md)
